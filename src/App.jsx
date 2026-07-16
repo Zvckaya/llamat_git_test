@@ -122,5 +122,3 @@ function App() {
 export default App
 
 // Feature A: Added by agent
-// Feature B: Added by agent
-// Feature B: Also modified the same line
